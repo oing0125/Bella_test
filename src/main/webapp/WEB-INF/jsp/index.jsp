@@ -20,7 +20,6 @@
 	<br/>
  <div class="main_top_txt">
   <h1>강아지 사료의 새로운 패러다임</h1>
-  <h1>강아지 사료의 새로운 패러다임</h1>
   <h2>신선하고 건강한 재료로 조리한 진짜 음식</h2>
   <button class="btn btn_color_go_register btn_go_register">Register Now</button>
  </div>
